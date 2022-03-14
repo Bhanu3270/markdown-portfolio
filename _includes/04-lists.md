@@ -1,3 +1,5 @@
-_Cricket 
-*inovation 
-_bussiness
+A list of my favorite things:
+*Cats 
+*Computers 
+
+
